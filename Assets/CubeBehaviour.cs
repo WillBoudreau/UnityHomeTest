@@ -8,7 +8,7 @@ public class CubeBehaviour : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        
+        CubeRotSpeed = 50.0f;
     }
 
     // Update is called once per frame
